@@ -80,6 +80,3 @@ basic-calculator
 
 ## License
 This project is created for educational purposes.
-
-This project is created for educational purposes.
-
